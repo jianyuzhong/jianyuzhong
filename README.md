@@ -4,20 +4,12 @@ Personal Information
 
 ---
 
-* Graduated from Chengdu University of Information Technology with a degree in Software Engineering
-* Male, born in April 1996, 27 years old
-* Phone: 18382339428
-* Email: [david199604@qq.com](mailto:david199604@qq.com)
-* Github: [https://github.com/jianyuzhong/Resume/blob/main/david.md](https://github.com/jianyuzhong/Resume/blob/main/david.md)
+* I am David, a software development engineer residing in Chengdu. I graduated from Chengdu University of Information Technology with a major in Software Engineering.
 
 Skills
 ------
 
-* Programming Languages: C#, Python, T-SQL, Shell, Markdown
-* Databases: SQL Server, MySQL, Elasticsearch, Redis
-* Tools: Visual Studio, VSCode, SVN, Git, Anaconda, Kibana, Xshell
-* English level: CET6
-* Technologies: ASP.NET Core, WPF, React.js, Ajax, JavaScript, DI, IOC, AOP, MVC, MVVM, Middleware, WebService, WebAPI, Kafka, Socket, ZooKeeper, BeautifulSoup, Quartz, Docker, K8s
+![1686279881726](image/README/1686279881726.png)
 
 Education
 ---------
