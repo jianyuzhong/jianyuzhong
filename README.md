@@ -9,7 +9,7 @@ Personal Information
 Skills
 ------
 
-![1686279881726](image/README/1686279881726.png)
+![1686280176431](image/README/1686280176431.png)
 
 Education
 ---------
