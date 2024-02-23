@@ -42,7 +42,7 @@ _Software development engineer at Chengdu Shensike Technology Co., Ltd._
 * Implemented project cross-platform applications (domestication of foreign-developed software) using .NET5
 
 2021.12-2023.08
-_.net Backend development engineer at Beisen Cloud_
+_.net Backend development engineer at renruihr (servering Beisen Cloud)_
 
 * Develop microservices to integrate recruitment cloud business operations with different clients
 * Cooperate with third-party companies to implement data encryption transmission and RESTful interactions
